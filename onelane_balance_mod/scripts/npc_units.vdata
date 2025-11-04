@@ -5804,7 +5804,7 @@
 			m_ShieldActiveParticle = resource_name:"particles/generic/backdoor_protection_aura.vpcf"
 			m_strActiveEffectConfigName = "tier2"
 		}
-		m_flInvulModifierRange = 1377.950000
+		m_flInvulModifierRange = 877.950000
 		m_InvulModifier = subclass:
 		{
 			_my_subclass_name = "modifier_boss_invuln"
